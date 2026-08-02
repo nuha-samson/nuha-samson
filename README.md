@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there, I'm Nuha 👋
 
-<!--
-**nuha-samson/nuha-samson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Engineer | Sophomore CS Student | Building Every Day
 
-Here are some ideas to get you started:
+<!--I'm a Computer Science student from Ethiopia who enjoys building web applications, solving algorithmic problems, and continuously improving as a software engineer. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on becoming a strong full-stack developer with a frontend focus while strengthening my problem-solving and software engineering fundamentals.
+
+---
+
+## 🚀 What I'm Working On
+
+* 🌱 Learning React, modern JavaScript, and backend development
+* 🧠 Practicing Data Structures & Algorithms
+* 💻 Building projects that solve real-world problems
+* ✨ Improving my UI/UX and frontend architecture skills
+* 📚 Preparing for competitive software engineering internships
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* HTML
+* CSS
+
+### Frontend
+
+* React
+* Responsive Design
+* CSS
+
+### Backend
+
+* Supabase (Learning)
+* Express.js (Learning)
+* MongoDB (Learning)
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuha-samson\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuha-samson\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nuha-samson\&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+* GitHub: https://github.com/nuha-samson
+* LinkedIn: https://www.linkedin.com/in/nuha-samson-206a9432a/
+
+---
+
+> *"Every project teaches something. Every bug makes me a better engineer."*
