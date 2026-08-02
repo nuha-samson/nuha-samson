@@ -13,8 +13,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 * 🌱 Learning React, modern JavaScript, and backend development
 * 🧠 Practicing Data Structures & Algorithms
 * 💻 Building projects that solve real-world problems
-* ✨ Improving my UI/UX and frontend architecture skills
-* 📚 Preparing for competitive software engineering internships
+* ✨ Improving my frontend architecture skills
 
 ---
 
