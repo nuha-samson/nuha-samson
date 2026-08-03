@@ -1,6 +1,6 @@
 # Hi there, I'm Nuha 👋
 
-### 💻 Aspiring Software Engineer | Sophomore CS Student | Building Every Day
+### 💻 Aspiring Software Engineer | Sophomore Engineering Student | Building Every Day
 
 <!--I'm a Computer Science student from Ethiopia who enjoys building web applications, solving algorithmic problems, and continuously improving as a software engineer. -->
 
