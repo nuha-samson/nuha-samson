@@ -19,20 +19,11 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-* Python
-* JavaScript
-* HTML
-* CSS
-
-### Frontend
-
-* React
-* Responsive Design
-* CSS
-
-### Backend
+![Python](https://shields.io)
+![Javasxript](https://shields.io)
+![React](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 * Supabase (Learning)
 * Express.js (Learning)
@@ -40,10 +31,9 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-
+![VSCODE](https://shields.io)
+![Git](https://shields.io)
+![Github](https://shields.io)
 ---
 
 ## 📊 GitHub Stats
