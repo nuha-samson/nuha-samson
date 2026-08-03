@@ -61,7 +61,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 ## 🌍 Connect With Me
 
 * GitHub: https://github.com/nuha-samson
-* LinkedIn: https://www.linkedin.com/in/nuha-samson-206a9432a/
+* LinkedIn: https://www.linkedin.com/in/nuha-samson
 
 ---
 
