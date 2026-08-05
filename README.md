@@ -16,35 +16,24 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 * ✨ Improving my frontend architecture skills
 
 ---
-
 ## 🛠️ Tech Stack
 
-![Python](https://shields.io)
-![Javasxript](https://shields.io)
-![React](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,tailwind,git,github" />
+</p>
 
-* Supabase (Learning)
-* Express.js (Learning)
-* MongoDB (Learning)
-
-### Tools
-
-![VSCODE](https://shields.io)
-![Git](https://shields.io)
-![Github](https://shields.io)
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nuha-samson&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuha-samson&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuha-samson\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuha-samson\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nuha-samson\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nuha-samson&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
