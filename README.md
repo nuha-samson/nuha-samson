@@ -27,7 +27,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuha-samson&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuha-samson&show_icons=true&theme=tokyonight&cache_seconds=1800)
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuha-samson&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
