@@ -2,7 +2,10 @@
 
 ### 💻 Aspiring Software Engineer | Sophomore Engineering Student | Building Every Day
 
-<!--I'm a Computer Science student from Ethiopia who enjoys building web applications, solving algorithmic problems, and continuously improving as a software engineer. -->
+<!--
+I'm a Computer Science student from Ethiopia who enjoys building web applications,
+solving algorithmic problems, and continuously improving as a software engineer.
+-->
 
 Currently, I'm focused on becoming a strong full-stack developer with a frontend focus while strengthening my problem-solving and software engineering fundamentals.
 
@@ -10,12 +13,13 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ## 🚀 What I'm Working On
 
-* 🌱 Learning React, modern JavaScript, and backend development
-* 🧠 Practicing Data Structures & Algorithms
-* 💻 Building projects that solve real-world problems
-* ✨ Improving my frontend architecture skills
+- 🌱 Learning React, modern JavaScript, and backend development
+- 🧠 Practicing Data Structures & Algorithms
+- 💻 Building projects that solve real-world problems
+- ✨ Improving my frontend architecture skills
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -27,7 +31,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 ## 📊 GitHub Stats
 
 <p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuha-samson&show_icons=true&theme=tokyonight&cache_seconds=1800)
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nuha-samson&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuha-samson&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -39,8 +43,8 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ## 🌍 Connect With Me
 
-* GitHub: https://github.com/nuha-samson
-* LinkedIn: https://www.linkedin.com/in/nuha-samson
+- GitHub: https://github.com/nuha-samson
+- LinkedIn: https://www.linkedin.com/in/nuha-samson
 
 ---
 
