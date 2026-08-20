@@ -23,7 +23,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,tailwind,expressjs,mongodb,git,github" />
 </p>
 
 ---
