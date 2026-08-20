@@ -11,7 +11,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - 🌱 Learning React, modern JavaScript, and backend development
 - 🧠 Practicing Data Structures & Algorithms
@@ -20,15 +20,15 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,tailwind,expressjs,mongodb,postman,api,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,tailwind,expressjs,mongodb,postman,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nuha-samson&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -41,7 +41,7 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/nuha-samson
 - LinkedIn: https://www.linkedin.com/in/nuha-samson
