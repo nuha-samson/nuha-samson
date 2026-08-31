@@ -30,7 +30,6 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 
 ##  GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=nuha-samson&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nuha-samson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nuha-samson&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
