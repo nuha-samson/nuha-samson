@@ -33,7 +33,9 @@ Currently, I'm focused on becoming a strong full-stack developer with a frontend
 ![](https://streak-stats.demolab.com/?user=nuha-samson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nuha-samson&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oii-233/oii-233/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ##  Connect With Me
